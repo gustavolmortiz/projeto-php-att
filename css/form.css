@@ -1,0 +1,73 @@
+#login{
+    padding: 10px 0;
+    width: 500px;   
+    height: 500px; 
+    margin: 100px auto ;
+    text-align: center;    
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, #0026ff, #8931d0);   
+}
+
+
+
+#div-form{
+    align-items: center;
+    margin: 75px auto;
+    width: 350px;
+}
+
+
+
+label{
+    width: 200px;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    border-radius:10px;
+    text-align: center;
+    margin: 10px;
+}
+
+#titulo-form{
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#botao:hover{
+    background-color: rgb(17, 0, 255);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#botao{
+    background-color:black;
+    color:rgb(255, 255, 255);
+    border: solid 1px gray;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.logo-test{
+    width: 50%;
+}
+
+.logo-nav{
+    width: 50px;
+    height: 50px;
+    margin-right: 50px;
+    padding: auto;
+}
